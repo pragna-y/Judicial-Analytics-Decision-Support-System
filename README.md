@@ -65,9 +65,3 @@ The system follows a data-centric analytics workflow:
 * Predictive analytics for case duration estimation
 * Expanded judicial datasets and comparative analysis
 
-## Team
-
-* Pragna Yanamadala
-* Shreya
-* P T Bandhavi
-* Alluri Thanavi
